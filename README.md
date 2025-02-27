@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
