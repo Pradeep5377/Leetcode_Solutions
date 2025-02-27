@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Database
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
