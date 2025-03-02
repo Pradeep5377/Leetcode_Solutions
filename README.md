@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
