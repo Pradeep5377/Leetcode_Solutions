@@ -30,6 +30,9 @@ class Solution {
             result.add(nums2[j]);
             j++;
         }
+       // return result.toArray(new int[result.size()][2]);
+
+       //Manualy converting ArrayList to 2D - array 
         int[][] res = new int[result.size()][2];
         for(int k=0;k<result.size();k++) res[k] = result.get(k);
 
