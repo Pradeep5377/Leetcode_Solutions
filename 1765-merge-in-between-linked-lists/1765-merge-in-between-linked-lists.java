@@ -18,18 +18,14 @@ class Solution {
         for(int i=1;i<a;i++){
             start = start.next;
         }
-        ListNode temp = start;
         for(int i=1;i<=b+1;i++){
             end = end.next;
         }
-        temp = start;
         start.next = list2;
         while(list2.next!=null){
             list2 = list2.next;
         }
         list2.next = end;
-
-        System.out.println(end.val);
         return dummy.next;
     }
 }
