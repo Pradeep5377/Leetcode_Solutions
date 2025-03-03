@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Database
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0092-reverse-linked-list-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
