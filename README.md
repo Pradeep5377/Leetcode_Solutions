@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0328-odd-even-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
