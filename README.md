@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1765-merge-in-between-linked-lists](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
