@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1161-project-employees-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1258-article-views-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1338-queries-quality-and-percentage) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1827-invalid-tweets) |
 ## Math
 |  |
