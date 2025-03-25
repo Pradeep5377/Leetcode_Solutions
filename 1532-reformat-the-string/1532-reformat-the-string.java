@@ -39,7 +39,7 @@ class Solution {
 
         }
 
-        if(charcount==s.length()/2 && digitcount==s.length()/2) return s;
+        // if(charcount==s.length()/2 && digitcount==s.length()/2) return s;
 
 
     return ans.toString();
