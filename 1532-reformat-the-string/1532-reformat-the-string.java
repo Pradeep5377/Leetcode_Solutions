@@ -16,7 +16,6 @@ class Solution {
             }
         }
         if(Math.abs(charcount-digitcount)>1) return "";
-
         boolean letterFirst = charcount >= digitcount;
         int i = 0;
         while(i<charcount && i<digitcount){
@@ -30,18 +29,13 @@ class Solution {
             }
             i++;
         }
-
         if(charcount>i){
             ans.append(chr.charAt(i));
         }
         else if(digitcount>i){
             ans.append(digit.charAt(i));
-
         }
-
-        // if(charcount==s.length()/2 && digitcount==s.length()/2) return s;
-
-
     return ans.toString();
+
     }
 }
