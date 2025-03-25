@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [1532-reformat-the-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1532-reformat-the-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
