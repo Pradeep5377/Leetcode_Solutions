@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Database
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [1532-reformat-the-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1532-reformat-the-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Greedy
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Monotonic Stack
 |  |
