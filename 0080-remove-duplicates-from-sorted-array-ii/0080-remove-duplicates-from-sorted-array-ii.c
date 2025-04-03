@@ -1,5 +1,5 @@
 int removeDuplicates(int* nums, int numsSize) {
-    if(numsSize<2) return numsSize;
+    if(numsSize<=2) return numsSize;
 
     int ptr = 2;
     for(int i=2;i<numsSize;i++){
