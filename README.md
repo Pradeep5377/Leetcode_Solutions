@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -178,10 +179,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
