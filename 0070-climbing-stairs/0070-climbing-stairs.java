@@ -1,6 +1,6 @@
 class Solution {
     public int climbStairs(int n) {
-        if(n<3) return n;
+        if(n<=3) return n;
         int n1 = 1;
         int n2 = 1;
         System.out.println(n1+"\n"+n2);
