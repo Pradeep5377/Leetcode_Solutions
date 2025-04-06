@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2262-solving-questions-with-brainpower](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -138,10 +141,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
 |  |
