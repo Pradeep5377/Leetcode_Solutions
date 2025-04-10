@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0268-missing-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -146,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
@@ -205,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
