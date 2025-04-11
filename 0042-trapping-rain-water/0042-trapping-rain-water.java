@@ -2,7 +2,7 @@ class Solution {
     public int trap(int[] height) {
         Stack <Integer> rightmax = new Stack<>();
         rightmax.push(height[height.length-1]);
-        for(int i=height.length-2;i>=2;i--){
+        for(int i=height.length-2;i>=1;i--){
             rightmax.push(Math.max(rightmax.peek(),height[i]));
         }
 
