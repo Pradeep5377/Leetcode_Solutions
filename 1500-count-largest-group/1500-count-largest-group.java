@@ -11,13 +11,7 @@ class Solution {
             }
             map.put(sum,map.getOrDefault(sum,0)+1);
         }
-        int max = Integer.MIN_VALUE;
-
-        for(int i:map.values()){
-            if(i>max){
-                max = i;
-            }
-        }
+        int max = Collections.max(map.values());
         int count = 0;
         for(int i:map.values()){
             if(i==max){
