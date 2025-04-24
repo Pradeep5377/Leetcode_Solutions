@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
