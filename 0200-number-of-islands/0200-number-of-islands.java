@@ -8,21 +8,21 @@ class Solution {
             for(int j=0;j<c;j++){
                 if(grid[i][j]=='1'){
                     count++;
-                    markZero(grid,i,j,r,c);
+                    dfs(grid,i,j,r,c);
                 }
             }
         }
         return count;        
     }
-    private static void markZero(char[][] grid,int i,int j,int r, int c){
+    private static void dfs(char[][] grid,int i,int j,int r, int c){
         if(i<0 || j<0 || i>=r || j>=c){
             return;
         }
         if(grid[i][j]=='0') return;
         grid[i][j] ='0';
-        markZero(grid,i-1,j,r,c);
-        markZero(grid,i+1,j,r,c);
-        markZero(grid,i,j-1,r,c);
-        markZero(grid,i,j+1,r,c);
+        dfs(grid,i-1,j,r,c);
+        dfs(grid,i+1,j,r,c);
+        dfs(grid,i,j-1,r,c);
+        dfs(grid,i,j+1,r,c);
     }
 }
