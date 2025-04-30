@@ -14,6 +14,6 @@ class Solution {
             i = i/10;
             count++;
         }
-        return true?count%2==0:false;
+        return count%2==0;
     }
 }
