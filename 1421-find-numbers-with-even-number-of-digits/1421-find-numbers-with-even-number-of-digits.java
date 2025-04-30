@@ -1,19 +1,15 @@
 class Solution {
     public int findNumbers(int[] nums) {
         int count = 0;
-        for(int i : nums){
+        for(int i :nums){
             if(findDigit(i)){
                 count++;
             }
         }
         return count;
     }
-    private static boolean findDigit(int i){
-        int count = 0;
-        while(i>0){
-            i = i/10;
-            count++;
-        }
-        return count%2==0;
+
+    private static boolean findDigit(int n){
+        return n==0?false: ((int) Math.log10(Math.abs(n)) + 1)%2==0;
     }
 }
