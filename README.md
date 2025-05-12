@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
+| [1293-three-consecutive-odds](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1505-create-target-array-in-the-given-order) |
