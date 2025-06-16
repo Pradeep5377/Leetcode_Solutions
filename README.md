@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2262-solving-questions-with-brainpower](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
