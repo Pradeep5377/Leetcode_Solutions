@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1904-second-largest-digit-in-a-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3194-find-words-containing-character](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 ## Greedy
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1505-create-target-array-in-the-given-order) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
