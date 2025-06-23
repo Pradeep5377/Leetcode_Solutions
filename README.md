@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
