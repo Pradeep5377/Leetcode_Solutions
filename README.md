@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
+| [0890-lemonade-change](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
