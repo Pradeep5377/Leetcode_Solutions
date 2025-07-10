@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3194-find-words-containing-character](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0890-lemonade-change](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Simulation
 |  |
 | ------- |
@@ -359,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 <!---LeetCode Topics End-->
