@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1505-create-target-array-in-the-given-order) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1532-reformat-the-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1532-reformat-the-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Prefix Sum
 |  |
 | ------- |
