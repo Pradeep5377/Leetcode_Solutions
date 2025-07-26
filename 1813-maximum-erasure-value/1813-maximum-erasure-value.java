@@ -5,7 +5,7 @@ class Solution {
         int currsum = 0;
         int maxsum = 0;
         for(int right = 0;right<nums.length;right++){
-            while(set.contains(nums[right])){
+            while(!set.add(nums[right])){
                 set.remove(nums[left]);
                 currsum -= nums[left];
                 left++;
