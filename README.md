@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0056-merge-intervals) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0204-count-primes) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0200-number-of-islands) |
