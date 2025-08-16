@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
