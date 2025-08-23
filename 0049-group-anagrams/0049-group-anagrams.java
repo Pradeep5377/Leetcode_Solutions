@@ -9,8 +9,9 @@ class Solution {
             }
             StringBuilder sb = new StringBuilder();
             for(int i : count){
-                sb.append(i).append("$");
+                sb.append(i).append("^");
             }
+                System.out.println(sb.toString());
             String key = sb.toString();
             if(!result.containsKey(key)){
                 result.put(key,new ArrayList<>());
