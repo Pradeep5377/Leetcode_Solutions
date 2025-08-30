@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
