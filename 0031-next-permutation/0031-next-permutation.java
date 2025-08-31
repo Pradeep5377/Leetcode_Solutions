@@ -8,7 +8,7 @@ class Solution {
         int j = n-1;
 
         if(i==-1){
-            Arrays.sort(nums);
+            rev(nums,0,n-1);
         }
         else{
             while(j>=0 && nums[j]<=nums[i]){
@@ -20,8 +20,11 @@ class Solution {
             nums[j] = temp;
 
             //reverse;
-            int start = i+1;
-            int end = n-1;
+            rev(nums,i+1,n-1);
+        }
+        System.out.println(i + " " + j);
+    }
+    private static void rev(int[] nums, int start,int end){
             while(start < end){
                 int tem = nums[start];
                 nums[start] = nums[end];
@@ -29,7 +32,5 @@ class Solution {
                 start++;
                 end--;
             }
-        }
-        System.out.println(i + " " + j);
     }
 }
