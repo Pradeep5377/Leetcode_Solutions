@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0086-partition-list) |
