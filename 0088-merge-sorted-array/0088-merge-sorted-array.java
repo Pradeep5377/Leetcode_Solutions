@@ -8,11 +8,12 @@ class Solution {
         while(ptr1>=0 && ptr2>=0){
             System.out.println(nums1[ptr1]);
             if(nums1[ptr1] >= nums2[ptr2]){
-                nums1[len--] = nums1[ptr1--];
+                nums1[len] = nums1[ptr1--];
             }
             else{
-                nums1[len--] = nums2[ptr2--];
+                nums1[len] = nums2[ptr2--];
             }
+            len--;
         }
 
         while(ptr2>=0){
