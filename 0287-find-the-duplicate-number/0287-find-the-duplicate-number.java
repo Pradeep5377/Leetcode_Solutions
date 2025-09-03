@@ -3,18 +3,11 @@ class Solution {
 
         int n = nums.length;
         boolean[] seen = new boolean[n+1];
-
-        for(boolean b : seen){
-            System.out.print(b+" ");
-        }
-        for(int i=0;i<n;i++){
-            int num = nums[i];
+        for(int num :nums){
             if(seen[num]){
                 return num;
             }
-            else{
-                seen[num] = true;
-            }
+            seen[num] = true;
         }
         return 0;
     }
