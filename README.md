@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0817-design-hashmap](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0817-design-hashmap) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0461-hamming-distance) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
