@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1293-three-consecutive-odds](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1236-n-th-tribonacci-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
