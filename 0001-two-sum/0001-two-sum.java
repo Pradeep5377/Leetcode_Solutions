@@ -12,6 +12,6 @@ class Solution {
                 return new int[] {i,map.get(num)};
             }
         }
-        return new int[] {};
+        return new int[] {0};
     }
 }
