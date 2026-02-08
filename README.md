@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3778-transform-array-by-parity](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
