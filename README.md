@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2083-three-divisors) |
+| [2485-find-the-pivot-integer](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2812-find-the-maximum-achievable-number) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [2485-find-the-pivot-integer](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2485-find-the-pivot-integer) |
 ## Sliding Window
 |  |
 | ------- |
