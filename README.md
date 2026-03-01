@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1532-reformat-the-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1532-reformat-the-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0890-lemonade-change](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Simulation
