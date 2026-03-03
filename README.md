@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1532-reformat-the-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1532-reformat-the-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1505-create-target-array-in-the-given-order) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
