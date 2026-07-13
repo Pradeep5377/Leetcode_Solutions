@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1291-sequential-digits) |
 | [2083-three-divisors](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2083-three-divisors) |
 | [2998-count-symmetric-integers](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
 ## Tree
