@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [2104-operations-on-tree](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2104-operations-on-tree) |
 ## Depth-First Search
 |  |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0513-find-bottom-left-tree-value](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2104-operations-on-tree](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2104-operations-on-tree) |
 ## Breadth-First Search
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0513-find-bottom-left-tree-value](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [2104-operations-on-tree](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2104-operations-on-tree) |
 ## Binary Tree
 |  |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
