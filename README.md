@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2998-count-symmetric-integers](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3830-find-closest-person](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3830-find-closest-person) |
 ## Linked List
 |  |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2083-three-divisors](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2083-three-divisors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
 | ------- |
