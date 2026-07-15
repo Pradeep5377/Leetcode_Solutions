@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3194-find-words-containing-character](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3830-find-closest-person](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3830-find-closest-person) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2083-three-divisors](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2083-three-divisors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
 |  |
 | ------- |
