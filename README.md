@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1813-maximum-erasure-value](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1813-maximum-erasure-value) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-operations-on-tree](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2104-operations-on-tree) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1500-count-largest-group](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2083-three-divisors) |
 | [2485-find-the-pivot-integer](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2485-find-the-pivot-integer) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2083-three-divisors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
