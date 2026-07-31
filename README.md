@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1500-count-largest-group) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
