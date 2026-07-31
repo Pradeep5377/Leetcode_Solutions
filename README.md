@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3396-valid-word) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Simulation
 |  |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3778-transform-array-by-parity](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3778-transform-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3778-transform-array-by-parity](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3778-transform-array-by-parity) |
