@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3731-find-missing-elements](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3778-transform-array-by-parity](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3778-transform-array-by-parity) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3731-find-missing-elements](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Database
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3778-transform-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
