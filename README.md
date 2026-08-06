@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3830-find-closest-person](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3830-find-closest-person) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1291-sequential-digits](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/1291-sequential-digits) |
 | [2083-three-divisors](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2083-three-divisors) |
 | [2998-count-symmetric-integers](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Pradeep5377/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Tree
 |  |
 | ------- |
