@@ -8,7 +8,6 @@ class Solution {
 
         for(int i=1;i<1001;i++){
             if(freq[i]==0 && i%k==0){
-                System.out.println("i = "+ i);
                 return i;
             }
         }
